@@ -1,4 +1,3 @@
-# RSdropinUK
 ### Community drop-in sessions for UK researchers and RSEs writing software for research
 
 Software is now a key element in huge array of research outputs across almost all domains.
