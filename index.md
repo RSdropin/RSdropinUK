@@ -29,7 +29,7 @@ Our fornightly sessions run for two hours and are hosted via either Zoom or Micr
 
 To help prevent unauthorised access to the sessions, we will not be publishing join links on the website. Instead there are two options for obtaining the join link for each session:
 
- - Register via [our session registration form](https://forms.office.com/r/wuHDQWxef4) which closes 2 hours prior to the session. You will then be emailed the join link prior to the start of the session. (**please use an institutional email address**)
+ - Register via [our session registration form]() which closes 2 hours prior to the session. You will then be emailed the join link prior to the start of the session. (**please use an institutional email address**)
  
  - Obtain the link via the RSE Slack workspace where it will be posted in the #RSdropin channel.
 
