@@ -47,7 +47,7 @@ We'll ask you for your affiliation and role and how often you think you might be
 
 As highlighted above, we are committed to running sessions that offer a friendly, welcoming and non-judgemental environment. Somewhere that members of the community can come to ask for advice and assistance with technical problems without feeling concerned about being judged on their level of technical knowledge, expertise or understanding.
 
-To support this, we ask that all helpers and attendees adhere to [our Code of Conduct](). In short, this reminds us all to be kind and respectful to the other attendees at these sessions. However, by joining our sessions, you agree to abide by this code so please familiarise yourself with the full Code of Conduct before participating in the sessions.
+To support this, we ask that all helpers and attendees adhere to [our Code of Conduct]({% link code_of_conduct.md %}). In short, this reminds us all to be kind and respectful to the other attendees at these sessions. However, by joining our sessions, you agree to abide by this code so please familiarise yourself with the full Code of Conduct before participating in the sessions.
 
 ### Who are we?!
 
