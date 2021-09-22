@@ -39,7 +39,7 @@ _If you have a technical problem that you feel may require specialist knowledge,
 
 ### Helping out
 
-These sessions cannot be run without support from members of the community. If you're willing to spend a couple of hours every few weeks to join a session and help out by answering questions or offering technical advice to other members of the research community, you can register as a helper via this form.
+These sessions cannot be run without support from members of the community. If you're willing to spend a couple of hours every few weeks to join a session and help out by answering questions or offering technical advice to other members of the research community, you can [register as a helper via this form](https://forms.office.com/r/wuHDQWxef4).
 
 We'll ask you for your affiliation and role and how often you think you might be able to help out as well as what expertise you can offer. Once registered as a helper, you'll have the opportunity to sign-up to attend sessions (and, of course, you can join as an attendee too when you have questions on topics you're less familiar with).
 
@@ -47,7 +47,7 @@ We'll ask you for your affiliation and role and how often you think you might be
 
 As highlighted above, we are committed to running sessions that offer a friendly, welcoming and non-judgemental environment. Somewhere that members of the community can come to ask for advice and assistance with technical problems without feeling concerned about being judged on their level of technical knowledge, expertise or understanding.
 
-To support this, we ask that all helpers and attendees adhere to [our Code of Conduct](https://rsdropin.github.io/RSdropinUK/code_of_conduct). In short, this reminds us all to be kind and respectful to the other attendees at these sessions. However, by joining our sessions, you agree to abide by this code so please familiarise yourself with the full Code of Conduct before participating in the sessions.
+To support this, we ask that all helpers and attendees adhere to [our Code of Conduct](). In short, this reminds us all to be kind and respectful to the other attendees at these sessions. However, by joining our sessions, you agree to abide by this code so please familiarise yourself with the full Code of Conduct before participating in the sessions.
 
 ### Who are we?!
 
