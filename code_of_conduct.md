@@ -1,7 +1,7 @@
 
 # Code of Conduct
 
-RSdropinUK is a community event intended for education and collaboration in the research software community.
+RSdropinUK is a community activity intended for education and collaboration in the research software community.
 
 We value the participation of each community member and want our participants and volunteers to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout our drop-in sessions and associated activities.
 
@@ -56,7 +56,7 @@ If a participant engages in behavior that violates this code of conduct, the RSd
 
 If you believe that someone is violating the code of conduct, or have any other concerns, please contact a RSdropinUK organiser immediately. They can be reached by emailing jeremy.cohen@imperial.ac.uk (Jeremy Cohen, Imperial College London) or l.whalley@northumbria.ac.uk (Lucy Whalley, Northumbria University).
 
-Thank you for helping make this a welcoming, friendly community for everyone.
+Thank you for helping to make this a welcoming, friendly community for everyone.
 
 ## License
 
