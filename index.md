@@ -23,6 +23,10 @@ We can help with:
 
  - To help ensure equity in access to research software knowledge and support within the research community, regardless of your research domain and prior technical knowledge and expertise.
 
+### Tutorial walkthroughs
+
+Each drop-in session will also include an informal tutorial/walkthrough of a research software engineering tool. This will be aimed at absolute beginners. Please see below for more details.
+
 ### Joining sessions
 
 Our fornightly sessions run for two hours and are hosted via either Zoom or Microsoft Teams.
@@ -36,6 +40,12 @@ To help prevent unauthorised access to the sessions, we will not be publishing j
 You are welcome to drop in at any point during the two hour session. We also welcome attendees who want to drop in for general technical discussion with other members of the community.
 
 _If you have a technical problem that you feel may require specialist knowledge, either domain knowledge or advanced technical knowledge, there is a field on the registration form where you can highlight this. In such cases, please register via the form and we will aim to ensure that someone is present who has the relevant expertise to provide assistance._
+
+### The next session
+
+Our next session will take place via Zoom on: Wednesday 13th October, 13:00-15:00. 
+
+From 13:15 to 13:45 we will have an informal tutorial and walkthrough providing an "Absolute Beginners Guide To...software version control with git". Please come join!
 
 ### Helping out
 
