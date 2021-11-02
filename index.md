@@ -47,9 +47,9 @@ Our next session will take place via Zoom on: Wednesday 27th October, 13:00-15:0
 
 ### Helping out
 
-These sessions cannot be run without support from members of the community. If you're willing to spend a couple of hours every few weeks to join a session and help out by answering questions or offering technical advice to other members of the research community, you can [register as a helper via this form](https://forms.office.com/r/wuHDQWxef4).
+These sessions cannot be run without support from members of the community. If you're willing to spend a couple of hours every few weeks to join a session and help out by answering questions or offering technical advice to other members of the research community, you can [register as a helper via this form](https://forms.office.com/r/wuHDQWxef4) and sign up to help at a particular drop-in via [the wiki](https://github.com/RSdropin/RSdropinUK/wiki/Session-and-helper-schedule). We also have a rsdropin-helpers channel on the [ukrse Slack organisation](https://society-rse.org/join-us/) - come and say hi :wave:
 
-We'll ask you for your affiliation and role and how often you think you might be able to help out as well as what expertise you can offer. Once registered as a helper, you'll have the opportunity to sign-up to attend sessions (and, of course, you can join as an attendee too when you have questions on topics you're less familiar with).
+On the form we'll ask you for your affiliation and role and how often you think you might be able to help out as well as what expertise you can offer. Of course, you can join as an attendee too when you have questions on topics you're less familiar with.
 
 ### Code of Conduct
 
