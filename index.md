@@ -43,7 +43,7 @@ _If you have a technical problem that you feel may require specialist knowledge,
 
 ### The next session
 
-Our next session will take place via Zoom on: Wednesday 24th November, 13:00-15:00 BST. From 13:15 to 13:30 we will have an informal tutorial and walkthrough providing an "Absolute Beginners Guide To...Github Actions". I (Lucy) will do a walkthrough of a workflow I recently developed for teaching. This combines Github actions and the PyGithub API. Please come join!
+Our sessions for Autumn 2021 have now ended. Please watch this space for sessions starting in Spring term 2022!
 
 ### Helping out
 
