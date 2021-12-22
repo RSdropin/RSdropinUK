@@ -35,7 +35,7 @@ To help prevent unauthorised access to the sessions, we will not be publishing j
 
  - Register via [our session registration form](https://forms.office.com/r/WES0z6nfM2) which closes 2 hours prior to the session. You will then be emailed the join link prior to the start of the session. (**please use an institutional email address**)
  
- - Obtain the link via the RSE Slack workspace where it will be posted in the #RSdropin channel.
+- Obtain the link via the RSE Slack workspace where it will be posted in the [#general](https://ukrse.slack.com/archives/C035G68RF) channel.
 
 You are welcome to drop in at any point during the two hour session. We also welcome attendees who want to drop in for general technical discussion with other members of the community.
 
